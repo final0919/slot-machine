@@ -1,0 +1,6 @@
+{
+  "name": "智力老虎机",
+  "description": "一个结合解密策略、删除干扰概率、盲盒筛选、决策博弈的恐怖惊悚风智力老虎机。找出特定诡异图案，赢得神秘大奖！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
